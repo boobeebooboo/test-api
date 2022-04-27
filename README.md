@@ -1,0 +1,2 @@
+### Repository for demonstrating how to deploy a Flask application to Cloud Run automatically.
+Reference: [How to deploy a web application to Cloud Run automatically](https://medium.com/p/6967d7c7d42a)
